@@ -1,2 +1,1 @@
 require("kaan")
-print("hello")
